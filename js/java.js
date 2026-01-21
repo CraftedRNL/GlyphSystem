@@ -16,21 +16,25 @@ console.log("2")
             let godsHTML = "";
 
             for (let i = 0; i < glyph.gods.length; i++) {
-                godsHTML +=   glyph.gods[i]  ;
+                
+                
+                    godsHTML +=  "[" + glyph.gods[i] +"] " ;
+                
             }
             
             card.innerHTML = `
                 <h2>
                 ${glyph.name}
                 </h2>
-                <p><span class="label">[${glyph.tier}] [${godsHTML}] [${glyph.myth}]
+                <img src="${glyph.img}" alt="card">
+                <p><span class="label">[${glyph.tier}] ${godsHTML} [${glyph.myth}]
                 [${glyph.type}] [${glyph.effect}]
                 </span>
                 </p>
-                <p><span class="label">${glyph.quote}</span>
+                <p><span class="label"><i>${glyph.quote}</i></span>
                 
                 </p>
-                <p><span class="label">${glyph.ability}</span>
+                <p><span class="label"><i>${glyph.ability}</i></span>
                 
                 </p>`;
 

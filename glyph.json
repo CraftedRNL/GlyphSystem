@@ -9,8 +9,8 @@
             "myth" : "Greek",
             "type" : "Ritualistic",
             "effect" : "Blessing",
-            "img" : "url",
-            "quote" : "“Wealth I desire to have; but wrongfully to get it, I do not wish. Justice, even if slow, is sure.”",
+            "img" : "img/test.png",
+            "quote" : "“Wealth I de sire to have; but wrongfully to get it, I do not wish. Justice, even if slow, is sure.”",
             "ability" : "Any valuables (gold or rare gems) found are doubled. <br> <br> Once per long rest, you may sacrifice your valuables to Hades, granting you the ability to summon dead warriors to fight by your side."
         },
         {
@@ -23,7 +23,7 @@
             "myth" : "Greek",
             "type" : "Ability",
             "effect" : "Blessing",
-            "img" : "url",
+            "img" : "img/test.png",
             "quote" : "“The only true wisdom is in knowing you know nothing.”",
             "ability" : "Resistance to psychic dmg. <br> <br> Once per long rest, summon an Olive Tree within [x] feet around you. For [x] minutes, anyone in a [x]-foot radius around it gains advantage on Wisdom saving throws, checks, and cannot be charmed or frightened; summons olives, when eaten, heals 2d4 + 2 of health."
         },
@@ -36,7 +36,7 @@
             "myth" : "Greek",
             "type" : "Ability",
             "effect" : "Blessing",
-            "img" : "url",
+            "img" : "img/test.png",
             "quote" : "“What belongs to the sea will always return to the sea.”",
             "ability" : "Resistance to cold dmg--your attacks deal 1d6 cold damage. <br> <br> Once per long rest, if on a body of water, creatures standing in a 30ft radius of you must make a strength and dexterity saving throw (DC = 8)."
         },
@@ -49,7 +49,7 @@
             "myth" : "Greek",
             "type" : "Transformation",
             "effect" : "Blessing",
-            "img" : "url",
+            "img" : "img/test.png",
             "quote" : "“In madness lies sanity.”",
             "ability" : "Gain resistance to poison damage and advantage on saves against being poisoned or diseased.<br> <br> Once per long rest, you may perform a ritual dance or song for 1 minute. All allies who can see or hear you gain temp hp equal to your [CHA] modifier + your proficiency bonus and have advantage on their next attack."
         },
@@ -62,7 +62,7 @@
             "myth" : "Greek",
             "type" : "Authority",
             "effect" : "Blessing",
-            "img" : "url",
+            "img" : "img/test.png",
             "quote" : "“You never know how strong you are, until being strong is your only choice.”",
             "ability" : "Your STR and CON stats increase by 2. Adds a 1d8 lightning damage. <br> <br> Once per long rest, you may put in effect a [decree]. For the next minute, you may ignore one rule, restriction, or condition made upon you by anything."
         }
